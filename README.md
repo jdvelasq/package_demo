@@ -1,5 +1,18 @@
 # Demostración de creación de un paquete de Python
 
+**Nota:** Instalar requirements.txt en un ambiente virtual.
+
+## Contenido a revisar en clase
+
+* Estructura de los directorios
+
+* Creación de modulos
+
+* Instalación local del paquete
+
+* Creación de la documentación de sphinx
+
+ 
 
 
 ## Uso de pip:
